@@ -1,0 +1,14 @@
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\bin\Debug\netcoreapp3.1\START.exe
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\bin\Debug\netcoreapp3.1\START.deps.json
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\bin\Debug\netcoreapp3.1\START.runtimeconfig.json
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\bin\Debug\netcoreapp3.1\START.runtimeconfig.dev.json
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\bin\Debug\netcoreapp3.1\START.dll
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\bin\Debug\netcoreapp3.1\START.pdb
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\obj\Debug\netcoreapp3.1\START.csproj.AssemblyReference.cache
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\obj\Debug\netcoreapp3.1\START.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\obj\Debug\netcoreapp3.1\START.AssemblyInfoInputs.cache
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\obj\Debug\netcoreapp3.1\START.AssemblyInfo.cs
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\obj\Debug\netcoreapp3.1\START.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\obj\Debug\netcoreapp3.1\START.dll
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\obj\Debug\netcoreapp3.1\START.pdb
+C:\Users\nikis\Desktop\Eli-Work\C#\START\START\obj\Debug\netcoreapp3.1\START.genruntimeconfig.cache
